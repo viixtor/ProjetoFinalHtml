@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.logo {
+    margin: 20px 0px 20px 150px;
+    padding: 10px 10px 10px 10px;
+}
+
+h1 {
+    text-align: justify;
+    margin: 0px 0px 2px 150px;
+    padding: 20px 10px 10px 10px;
+    font-size: 30px;
+
+}
+
+p {
+    text-align: justify;
+    margin: 0px 0px 4px 150px;
+    padding: 5px 10px 10px 10px;
+}
+
+nav {
+    
+    margin: -70px 0px 20px 1060px;
+    padding: 5px 10px 10px 10px;
+}
+footer {
+    padding: 10px;
+    text-align: center;
+}
+ol {
+    text-align: justify;
+    margin: 0px 0px 4px 165px;
+    padding: 5px 10px 10px 10px;
+}
+hr {
+    width: 68%;
+    color: rgba(0, 0, 0, 0.575);
+    margin: 0px 0px 4px 165px;
+}
+
+.paragrafo {
+    margin: 0px 0px 0px 150px;
+    padding: 5px 10px 0px 10px;
+}
+#input1 {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
